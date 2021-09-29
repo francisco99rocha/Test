@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 o jr é burro
+=======
+o xico é um burro do crlh
+>>>>>>> c1771fd1606d03d38c3c1bcb826d4676d916a6df
 
